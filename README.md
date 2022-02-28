@@ -37,5 +37,5 @@ Welcome to my Git Hub.
 <img src="https://img.shields.io/badge/Eclipse IDE-2C2255?style=for-the-badge&logo=Eclipse IDE&logoColor=white">
 <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white">
   
-남극을 정복하자!
+Concuer the Artic!
 </div>
