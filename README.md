@@ -4,6 +4,12 @@ Welcome to my Git Hub.
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ScrewlessKingjo&show_icons=true&theme=graywhite)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ScrewlessKingjo&layout=compact&theme=graywhite)](https://github.com/anuraghazra/github-readme-stats)
 
+소개
+-------------
+안녕하세요. 웹 개발자 윤상운입니다.
+아직 많이 부족하지만 항상 발전하기 위해 노력하고 있습니다.
+
+
 윤상운
 -------------
 학력 : 성공회대학교 경영학부    
@@ -12,6 +18,7 @@ Welcome to my Git Hub.
 
 기술
 -------------
+
 <div align="center">
 <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white">
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
@@ -36,6 +43,4 @@ Welcome to my Git Hub.
 <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white">
 <img src="https://img.shields.io/badge/Eclipse IDE-2C2255?style=for-the-badge&logo=Eclipse IDE&logoColor=white">
 <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white">
-  
-Concuer the Artic!
 </div>
